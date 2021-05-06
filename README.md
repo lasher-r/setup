@@ -4,7 +4,7 @@
 * [zsh](##zsh)
 * [vim](##vim)
 * [vscode](##vscode)
-* [global packages](##npm -g)
+* [global packages](##npm)
 
 ## Brew
 
