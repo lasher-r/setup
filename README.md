@@ -20,7 +20,7 @@
 
 `brew install zsh docker fasd nvm tree curl wget git-flow thefuck`
 
-`brew cask install visual-studio-code postman google-chrome`
+`brew cask install visual-studio-code postman google-chrome alfred`
 
 `brew tap homebrew/cask-fonts`
 
@@ -41,6 +41,8 @@
 `git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
 
 `vim +PluginInstall +qall`
+
+*System Preferences* > *Keyboard*. Click the *Modifier Keys* button. In the dialog you can choose to map the caps lock key to escape
 
 ## vscode
 
@@ -81,5 +83,8 @@ advanced new file: cmd n
 
 `npm i -g eslint git-open node-inspector nodemon prettier`
 
+## alfred
 
+*System Preferences* > *Keyboard* > *shortcuts* > *spotlight*
+unselect all.
 
